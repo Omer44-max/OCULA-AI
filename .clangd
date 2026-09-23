@@ -1,0 +1,7 @@
+# Prevent clangd from treating MATLAB .m files as Objective-C
+If:
+  PathMatch: .*\.m
+Diagnostics:
+  Suppress: ["*"]
+Index:
+  Background: Skip

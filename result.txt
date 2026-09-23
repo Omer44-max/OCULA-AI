@@ -1,0 +1,1 @@
+E2E_RESULT: Grade=4 (Proliferative DR), Conf=80.6%, Referable=1, Eye=OD (Right Eye (OD)), DME=High Risk (CSME), ExudateArea=18.21%, MA=1, Hem=1
